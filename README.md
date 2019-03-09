@@ -14,12 +14,12 @@
    - 系统管理：提供系统管理员密码修改和记住登录信息功能。 
    
 # 模块图
- ![model](https://github.com/Traveler-WM/BookMS/edit/master/img/model.jpg)
+ ![model](https://github.com/Traveler-WM/BookMS/blob/master/img/model.jpg)
  
 # 展示
- ![main](https://github.com/Traveler-WM/BookMS/edit/master/img/main.png)
+ ![main](https://github.com/Traveler-WM/BookMS/blob/master/img/main.png)
  
- ![log](https://github.com/Traveler-WM/BookMS/edit/master/img/log.jpg)
+ ![log](https://github.com/Traveler-WM/BookMS/blob/master/img/log.jpg)
  
 # 参考
  https://github.com/withstars/Books-Management-System
