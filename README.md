@@ -17,7 +17,8 @@
  ![model](https://github.com/Traveler-WM/BookMS/edit/master/img/model.jpg)
  
 # 展示
- ![main](https://github.com/Traveler-WM/BookMS/edit/master/img/main.jpg)
+ ![main](https://github.com/Traveler-WM/BookMS/edit/master/img/main.png)
+ 
  ![log](https://github.com/Traveler-WM/BookMS/edit/master/img/log.jpg)
  
 # 参考
