@@ -1,6 +1,6 @@
 # 书店销售系统（面向售书人员）
 
-![1](https://img.shields.io/badge/build-passion-green.svg)![2](https://img.shields.io/badge/chat-on%20gitter-red.svg)
+![1](https://img.shields.io/badge/build-passion-green.svg) ![2](https://img.shields.io/badge/chat-on%20gitter-red.svg) ![3](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 
 # 技术实现
 
