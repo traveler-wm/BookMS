@@ -1,5 +1,7 @@
 # 书店销售系统（面向售书人员）
 
+[](https://img.shields.io/badge/build-passion-green.svg)
+
 # 技术实现
 
 ## SpringMVC + MySql + Bootstrap
