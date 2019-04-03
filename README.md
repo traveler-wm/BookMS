@@ -4,8 +4,9 @@
 
 # 技术实现
 
-## SpringMVC + MySql + Bootstrap
+## Spring + SpringMVC + MySql
 
+## Bootstrap jquery
 # 功能模块
 
    - 入库管理：维护入库图书信息(如图书编号、书名、作者、出版社、ISBN、价格、余量等)；
